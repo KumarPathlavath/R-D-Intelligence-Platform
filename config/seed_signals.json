@@ -1,0 +1,1258 @@
+[
+  {
+    "signal_id": "sig-res-01",
+    "title": "IIT Madras reports 1.8x lifetime gain in tropical sodium-ion cathode coating",
+    "raw_text": "Atomic-layer alumina ALD coating suppresses phase collapse and hydrofluoric acid gas generation across 2,000 thermal cycles at 55°C ambient tropical heat under AIS-156 EV test protocols.",
+    "source_name": "IIT Madras Battery Lab (CBEEV) · Journal of Power Sources",
+    "source_type": "peer_reviewed",
+    "url": "https://sciencedirect.com/journal/journal-of-power-sources",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Materials", "Energy"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "IIT Madras Battery Lab (CBEEV)",
+      "category_badge": "Materials / Research Paper",
+      "novelty_score": 0.95,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T18:12:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-02",
+    "title": "University of Tokyo: Multi-Agent Reinforcement Learning for Autonomous Substation Load Optimization",
+    "raw_text": "Department of Electrical Engineering researchers demonstrate 19.4% grid operational cost reduction and peak load mitigation via distributed actor-critic reinforcement model.",
+    "source_name": "University of Tokyo & RIKEN · IEEE SmartGrid / arXiv",
+    "source_type": "peer_reviewed",
+    "url": "https://arxiv.org/abs/2609.14820",
+    "publish_date": "2026-09-28",
+    "geography": "Japan",
+    "domain_tags": ["AI Agents", "Energy"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "University of Tokyo & RIKEN",
+      "category_badge": "AI Agents / Research Paper",
+      "novelty_score": 0.92,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T18:08:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-03",
+    "title": "IISc Bengaluru: Sheet-Type Coil Geometry Cuts EV Wireless Charging Flux Leakage by 41%",
+    "raw_text": "Centre for Nano Science and Engineering (CeNSE) reports layered ferrite-backed planar sheet coil holding 94.2% power transfer efficiency at 60mm offset misalignment.",
+    "source_name": "IISc Bengaluru CeNSE · IEEE Trans. Power Electronics",
+    "source_type": "peer_reviewed",
+    "url": "https://ieeexplore.ieee.org/document/9842109",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Energy", "Electronics"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "IISc Bengaluru CeNSE",
+      "category_badge": "Energy / Research Paper",
+      "novelty_score": 0.94,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T18:00:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-04",
+    "title": "Kyoto University: Elastic Properties & Ion Transport of Amorphous LiTaCl6 Solid-State Electrolytes",
+    "raw_text": "Institute for Chemical Research calculates superionic mechanical and strain fluctuations via DFT-trained machine-learning force fields in NPT ensemble matching experimental 2.91 GPa modulus.",
+    "source_name": "Kyoto University & JST · Physical Review Materials",
+    "source_type": "peer_reviewed",
+    "url": "https://journals.aps.org/prmaterials",
+    "publish_date": "2026-09-28",
+    "geography": "Japan",
+    "domain_tags": ["Materials"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "Kyoto University Institute for Chemical Research",
+      "category_badge": "Materials / Research Paper",
+      "novelty_score": 0.93,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T17:50:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-05",
+    "title": "IIT Bombay & CSIR: Micro-Channel Continuous Enzymatic Flow Route for Chiral API Intermediates",
+    "raw_text": "Department of Chemistry demonstrates continuous enzymatic cascade replacing heavy palladium catalysts, achieving 88% isolated yield and 3.2x throughput increase.",
+    "source_name": "IIT Bombay & CSIR-NCL · Nature Catalysis / IRINS",
+    "source_type": "peer_reviewed",
+    "url": "https://nature.com/articles/s41929-026-00912",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Biopharma", "Materials"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "IIT Bombay & CSIR-NCL",
+      "category_badge": "Biopharma / Research Paper",
+      "novelty_score": 0.91,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T17:37:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-06",
+    "title": "Tohoku University WPI-AIMR: High-Temperature Zirconia-Doped Interface for Solid-State Batteries",
+    "raw_text": "Research team fabricates stabilized zirconia interfacial buffer suppressing lithium dendrite growth across 1,500 continuous fast-charge cycles at 60°C.",
+    "source_name": "Tohoku University WPI-AIMR · Advanced Energy Materials",
+    "source_type": "peer_reviewed",
+    "url": "https://wpi-aimr.tohoku.ac.jp/research",
+    "publish_date": "2026-09-28",
+    "geography": "Japan",
+    "domain_tags": ["Materials", "Energy"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "Tohoku University WPI-AIMR",
+      "category_badge": "Materials / Research Paper",
+      "novelty_score": 0.92,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T17:22:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-07",
+    "title": "Nature Energy: DFT Molecular Dynamics of Ultra-Conductive Fluorinated Sulfide Electrolytes",
+    "raw_text": "Global consortium of academic labs demonstrates room-temperature superionic conduction (>12 mS/cm) in fluorinated lithium phosphate solid-state framework.",
+    "source_name": "Nature Energy · DOI: 10.1038/s41560-026-0182",
+    "source_type": "peer_reviewed",
+    "url": "https://nature.com/articles/s41560-026-0182",
+    "publish_date": "2026-09-28",
+    "geography": "Global",
+    "domain_tags": ["Materials"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "Global Energy Consortium & Nature Labs",
+      "category_badge": "Materials / Research Paper",
+      "novelty_score": 0.96,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T17:12:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-08",
+    "title": "IIT Delhi: Zinc-Bromide Flow Battery with Self-Healing Microporous Polyolefin Membrane",
+    "raw_text": "Engineered asymmetric cross-linked membrane reduces zinc dendrite crossover by 83% while sustaining 850 deep cycles with 91.2% coulombic efficiency.",
+    "source_name": "IIT Delhi Centre for Energy Studies · ACS Applied Energy Materials",
+    "source_type": "peer_reviewed",
+    "url": "https://pubs.acs.org/journal/aaemcq",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Energy"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "IIT Delhi Centre for Energy Studies",
+      "category_badge": "Energy / Research Paper",
+      "novelty_score": 0.90,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T16:42:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-09",
+    "title": "Tokyo Institute of Technology: All-Solid-State Sodium Battery Utilizing Cl-Doped Na3PS4 Glass-Ceramics",
+    "raw_text": "Halogen substitution promotes isotropic 3D sodium-ion percolation paths, achieving 4.1 mS/cm ionic conductivity at 25°C without elevated stack pressures.",
+    "source_name": "Tokyo Tech Chemical Science · Journal of Materials Chemistry A",
+    "source_type": "peer_reviewed",
+    "url": "https://pubs.rsc.org/en/journals/journal/ta",
+    "publish_date": "2026-09-28",
+    "geography": "Japan",
+    "domain_tags": ["Materials"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "Tokyo Institute of Technology",
+      "category_badge": "Materials / Research Paper",
+      "novelty_score": 0.89,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T16:12:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-10",
+    "title": "IISc Bengaluru: Room-Temperature Topological Exciton Polaritons in Twisted Bilayer WSe2",
+    "raw_text": "Moire superlattice engineering demonstrates robust helical topological edge states at 300K, opening practical pathways for ultra-low power dissipation photonic logic.",
+    "source_name": "IISc Department of Physics · Physical Review Letters",
+    "source_type": "peer_reviewed",
+    "url": "https://journals.aps.org/prl",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Semiconductors", "Optics"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "IISc Department of Physics",
+      "category_badge": "Semiconductors / Research Paper",
+      "novelty_score": 0.94,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-28T15:42:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-11",
+    "title": "RIKEN Center for Quantum Computing: 64-Qubit Superconducting Processor with 3D Resonator Interconnects",
+    "raw_text": "Multi-chip module using superconducting through-silicon vias (TSVs) delivers 99.72% two-qubit CZ gate fidelity across full array with active crosstalk cancellation.",
+    "source_name": "RIKEN Q-Center & JST · Science",
+    "source_type": "peer_reviewed",
+    "url": "https://science.org/doi/10.1126/science.abq8912",
+    "publish_date": "2026-09-28",
+    "geography": "Japan",
+    "domain_tags": ["Quantum Tech", "Semiconductors"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "RIKEN Center for Quantum Computing",
+      "category_badge": "Quantum Tech / Research Paper",
+      "novelty_score": 0.95,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-28T15:12:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-12",
+    "title": "IIT Hyderabad: Reconfigurable Intelligent Surface (RIS) Metamaterial for 6G Terahertz Beamforming",
+    "raw_text": "Graphene-varactor integrated reflectarray achieves dynamic 360-degree phase steering at 140 GHz with sub-millisecond reconfiguration time for line-of-sight recovery.",
+    "source_name": "IIT Hyderabad 6G Wireless Lab · IEEE Trans. Terahertz Science",
+    "source_type": "peer_reviewed",
+    "url": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503871",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Telecommunications", "Semiconductors"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "IIT Hyderabad 6G Wireless Lab",
+      "category_badge": "Telecommunications / Research Paper",
+      "novelty_score": 0.88,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-28T14:42:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-13",
+    "title": "Osaka University: Photocatalytic Titanium-MOF Composite for Rapid PFAS Destruction in Wastewater",
+    "raw_text": "Metal-organic framework photocatalyst degrades 98.4% of persistent perfluorooctanoic acid (PFOA) within 45 minutes under simulated solar irradiation via radical defluorination.",
+    "source_name": "Osaka University Engineering · Journal of Hazardous Materials",
+    "source_type": "peer_reviewed",
+    "url": "https://sciencedirect.com/journal/journal-of-hazardous-materials",
+    "publish_date": "2026-09-27",
+    "geography": "Japan",
+    "domain_tags": ["Environment", "Materials"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "Osaka University Graduate School of Engineering",
+      "category_badge": "Environment / Research Paper",
+      "novelty_score": 0.91,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-27T17:30:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-14",
+    "title": "IIT Kharagpur: Nitrogen-Doped Graphene Nanoribbon Electrocatalyst for Acidic Oxygen Evolution in Green Hydrogen",
+    "raw_text": "Non-precious metal electrocatalyst demonstrates 220 mV overpotential at 100 mA/cm² in 0.5 M H2SO4 with zero performance degradation over 500 operating hours.",
+    "source_name": "IIT Kharagpur School of Energy Science · Carbon",
+    "source_type": "peer_reviewed",
+    "url": "https://sciencedirect.com/journal/carbon",
+    "publish_date": "2026-09-27",
+    "geography": "India",
+    "domain_tags": ["Clean Energy", "Materials"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "IIT Kharagpur School of Energy Science",
+      "category_badge": "Clean Energy / Research Paper",
+      "novelty_score": 0.90,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-27T16:15:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-15",
+    "title": "Kyushu University: Pure Blue Thermally Activated Delayed Fluorescence (TADF) Organic Emitters",
+    "raw_text": "Sterically crowded boron-nitrogen emitter achieves narrow emission linewidth (FWHM 18 nm) and 28.6% external quantum efficiency in OLED test structures.",
+    "source_name": "Kyushu University OPERA · Nature Communications",
+    "source_type": "peer_reviewed",
+    "url": "https://nature.com/ncomms",
+    "publish_date": "2026-09-27",
+    "geography": "Japan",
+    "domain_tags": ["Optics & Display", "Materials"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "Kyushu University OPERA Center",
+      "category_badge": "Optics / Research Paper",
+      "novelty_score": 0.92,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-27T14:00:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-16",
+    "title": "IIT Roorkee: Bio-Mimetic Aquaporin Forward-Osmosis Membrane for Zero-Liquid-Discharge Desalination",
+    "raw_text": "Recombinant aquaporin protein channels embedded in polyamide thin film achieve 4.2x water flux gain compared to commercial seawater reverse osmosis membranes.",
+    "source_name": "IIT Roorkee Chemical Engineering · Journal of Membrane Science",
+    "source_type": "peer_reviewed",
+    "url": "https://sciencedirect.com/journal/journal-of-membrane-science",
+    "publish_date": "2026-09-27",
+    "geography": "India",
+    "domain_tags": ["Water Tech", "Materials"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "IIT Roorkee Chemical Engineering",
+      "category_badge": "Water Tech / Research Paper",
+      "novelty_score": 0.88,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-27T11:30:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-17",
+    "title": "Nagoya University: Gallium Nitride Vertical Power MOSFETs Operating Reliably at 300°C",
+    "raw_text": "Trench-gate vertical GaN power transistors demonstrate 1.4 kV breakdown rating and ultra-low on-resistance without thermal runaway under sustained extreme temperatures.",
+    "source_name": "Nagoya University Institute of Materials · Nature Electronics",
+    "source_type": "peer_reviewed",
+    "url": "https://nature.com/natelectron",
+    "publish_date": "2026-09-26",
+    "geography": "Japan",
+    "domain_tags": ["Semiconductors"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "Nagoya University Institute of Materials & Systems",
+      "category_badge": "Semiconductors / Research Paper",
+      "novelty_score": 0.93,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-26T16:45:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-18",
+    "title": "CSIR-National Chemical Laboratory: Continuous Catalytic Hydrogenation of Lignocellulosic Furfural into Bio-Kerosene",
+    "raw_text": "Bimetallic Ru-Cu zeolitic catalyst converts agricultural crop residue into drop-in synthetic aviation turbine fuel with 93% selectivity under continuous trickle-bed flow.",
+    "source_name": "CSIR-NCL Pune · Green Chemistry",
+    "source_type": "peer_reviewed",
+    "url": "https://pubs.rsc.org/en/journals/journal/gc",
+    "publish_date": "2026-09-26",
+    "geography": "India",
+    "domain_tags": ["Biofuels", "Clean Energy"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "CSIR-National Chemical Laboratory (NCL) Pune",
+      "category_badge": "Biofuels / Research Paper",
+      "novelty_score": 0.89,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-26T14:10:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-19",
+    "title": "University of Tsukuba: CRISPR-Cas12f Ultra-Compact Gene Editing Complex for In-Vivo Targeted Epigenetics",
+    "raw_text": "Miniaturized 450-amino-acid nuclease engineered for efficient adeno-associated virus (AAV) vector packaging delivers 82% target locus modification in animal models.",
+    "source_name": "University of Tsukuba Medicine · PNAS",
+    "source_type": "peer_reviewed",
+    "url": "https://pnas.org",
+    "publish_date": "2026-09-26",
+    "geography": "Japan",
+    "domain_tags": ["Biopharma"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "University of Tsukuba Institute of Medicine",
+      "category_badge": "Biopharma / Research Paper",
+      "novelty_score": 0.91,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-26T12:00:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-20",
+    "title": "IIT Kanpur: MEMS Resonant Cantilever Sensor for Sub-PPM Ammonia Detection in Cleanrooms",
+    "raw_text": "Piezoelectric aluminum nitride micro-cantilever functionalized with polyaniline detects 40 ppb airborne molecular contaminants in real-time semiconductor fabrication.",
+    "source_name": "IIT Kanpur Department of Electrical Engineering · IEEE Sensors Journal",
+    "source_type": "peer_reviewed",
+    "url": "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361",
+    "publish_date": "2026-09-26",
+    "geography": "India",
+    "domain_tags": ["Semiconductors"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "IIT Kanpur Department of Electrical Engineering",
+      "category_badge": "Semiconductors / Research Paper",
+      "novelty_score": 0.87,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-26T10:25:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-21",
+    "title": "Stanford University: Photonic Neural Network Chip Demonstrating Sub-Picosecond Matrix Multiplications",
+    "raw_text": "Integrated silicon-photonic mesh architecture executes deep learning matrix tensor calculations at light speed with 100x lower energy dissipation than digital GPU accelerators.",
+    "source_name": "Stanford Ginzton Laboratory · Science Advances",
+    "source_type": "peer_reviewed",
+    "url": "https://science.org/doi/10.1126/sciadv.adf9812",
+    "publish_date": "2026-09-25",
+    "geography": "Global",
+    "domain_tags": ["AI & Photonics", "Semiconductors"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "Stanford University Ginzton Laboratory",
+      "category_badge": "AI / Research Paper",
+      "novelty_score": 0.94,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-25T18:30:00+05:30"
+  },
+  {
+    "signal_id": "sig-res-22",
+    "title": "MIT: Electrospun Solid Polymer Composite Separators Preventing Dendrite Penetration in Li-Metal Cells",
+    "raw_text": "Nanofibrous PVDF-HFP ceramic composite mesh with tailored pore tortuosity exhibits high mechanical shear modulus (1.8 GPa) arresting lithium filament propagation at 4C rates.",
+    "source_name": "MIT Energy Initiative · Advanced Functional Materials",
+    "source_type": "peer_reviewed",
+    "url": "https://onlinelibrary.wiley.com/journal/16163028",
+    "publish_date": "2026-09-25",
+    "geography": "Global",
+    "domain_tags": ["Materials", "Energy"],
+    "trust_weight": 1.0,
+    "raw_metadata": {
+      "applicant": "MIT Energy Initiative",
+      "category_badge": "Materials / Research Paper",
+      "novelty_score": 0.93,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-25T15:10:00+05:30"
+  },
+
+  {
+    "signal_id": "sig-pat-01",
+    "title": "Atomic-Layer Passivation on High-Nickel Sodium Cathodes (IPO Application 202641094812)",
+    "raw_text": "Indian Patent Office published filing covering conformal 12nm Al2O3 ALD coating preventing cathode cracking and electrolyte consumption at 55°C.",
+    "source_name": "IP India (InPASS) · Patent Application 202641094812",
+    "source_type": "patent",
+    "url": "https://ipindiaservices.gov.in/publicsearch",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Materials"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "IIT Madras & Global R&D Technology Alliance",
+      "category_badge": "Materials / Patent",
+      "novelty_score": 0.94,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T18:10:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-02",
+    "title": "Dynamic Frequency-Hopping Resonance Controller for In-Motion EV Power Transfer (JPO Application 2026-114882)",
+    "raw_text": "Japan Patent Office publication covering 79–90 kHz frequency-hopping controller suppressing secondary harmonic losses during vehicle misalignment.",
+    "source_name": "Japan Patent Office (JPO) · Application 2026-114882",
+    "source_type": "patent",
+    "url": "https://j-platpat.inpit.go.jp",
+    "publish_date": "2026-09-28",
+    "geography": "Japan",
+    "domain_tags": ["Energy"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Hitachi Energy & JPO Filings",
+      "category_badge": "Energy / Patent",
+      "novelty_score": 0.91,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T18:06:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-03",
+    "title": "High-Purity Silicon-Graphene Anode Composite Formulation (JPO Grant 2026-099412)",
+    "raw_text": "JPO patent publication on silicon nanoparticle encapsulation with conducting carbon nanotubes reducing volumetric expansion to <8%.",
+    "source_name": "JPO · Patent Grant 2026-099412",
+    "source_type": "patent",
+    "url": "https://j-platpat.inpit.go.jp",
+    "publish_date": "2026-09-28",
+    "geography": "Japan",
+    "domain_tags": ["Materials"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Toray Industries & Tokyo Tech",
+      "category_badge": "Materials / Patent",
+      "novelty_score": 0.89,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T17:57:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-04",
+    "title": "High-Efficiency Anion Exchange Membrane for Zero-Gap Alkaline Electrolyzers (IPO 202611048201)",
+    "raw_text": "Cross-linked polyimidazolium membrane with quaternary ammonium functionalization sustaining 2.5 A/cm² at 1.8V with 99.8% gas purity.",
+    "source_name": "IP India · Patent Application 202611048201",
+    "source_type": "patent",
+    "url": "https://ipindiaservices.gov.in/publicsearch",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Clean Energy", "Materials"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Bharat Heavy Electricals Ltd (BHEL)",
+      "category_badge": "Clean Energy / Patent",
+      "novelty_score": 0.90,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T17:44:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-05",
+    "title": "Event-Based Neuromorphic Vision Sensor with On-Chip Spiking Neural Network Compression (JPO 2026-083119)",
+    "raw_text": "Pixel-level asynchronous change detection circuit with integrated 4-bit event encoding reducing spatial data transmission bandwidth by 92%.",
+    "source_name": "JPO · Patent Application 2026-083119",
+    "source_type": "patent",
+    "url": "https://j-platpat.inpit.go.jp",
+    "publish_date": "2026-09-28",
+    "geography": "Japan",
+    "domain_tags": ["Semiconductors", "AI Agents"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Sony Semiconductor Solutions Corporation",
+      "category_badge": "Semiconductors / Patent",
+      "novelty_score": 0.93,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T17:32:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-06",
+    "title": "Direct Reduced Iron (DRI) Syngas Reactor with Integrated CO2 Microwave Pre-Heating (IPO 202631027150)",
+    "raw_text": "Decarbonized metallurgy method utilizing hydrogen-rich syngas coupled with electromagnetic microwave cavitators reducing thermal emissions by 44%.",
+    "source_name": "IP India · Patent Application 202631027150",
+    "source_type": "patent",
+    "url": "https://ipindiaservices.gov.in/publicsearch",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Manufacturing", "Clean Energy"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Tata Steel R&D & CSIR",
+      "category_badge": "Manufacturing / Patent",
+      "novelty_score": 0.88,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T17:17:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-07",
+    "title": "Ultra-Thin Multi-Layer Ceramic Capacitor (MLCC) with 01005 Metric Dielectric Stacks (JPO 2026-102941)",
+    "raw_text": "Sub-micron barium titanate dielectric grain structure achieving 10 uF capacitance in 0.4 x 0.2 mm footprint for high-frequency 5G/6G decoupling.",
+    "source_name": "JPO · Patent Grant 2026-102941",
+    "source_type": "patent",
+    "url": "https://j-platpat.inpit.go.jp",
+    "publish_date": "2026-09-28",
+    "geography": "Japan",
+    "domain_tags": ["Electronics", "Semiconductors"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Murata Manufacturing Co., Ltd.",
+      "category_badge": "Electronics / Patent",
+      "novelty_score": 0.89,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T17:00:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-08",
+    "title": "Additive-Manufactured Methane-Liquid Oxygen Dual-Expander Rocket Injector Head (IPO 202641019340)",
+    "raw_text": "Monolithic Inconel 718 coaxial swirl injector manufactured via laser powder bed fusion eliminating 140 brazed joints and increasing combustion stability.",
+    "source_name": "IP India · Patent Application 202641019340",
+    "source_type": "patent",
+    "url": "https://ipindiaservices.gov.in/publicsearch",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Aerospace", "Materials"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "ISRO Liquid Propulsion Systems Centre (LPSC)",
+      "category_badge": "Aerospace / Patent",
+      "novelty_score": 0.92,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T16:24:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-09",
+    "title": "Prismatic Lithium-Ion Cell Assembly with Integrated Thermal Phase-Change Composite Shroud (USPTO 11,942,881)",
+    "raw_text": "Micro-encapsulated paraffin wax matrix in cellular silicone casing preventing thermal runaway propagation between adjacent 4680 format cells.",
+    "source_name": "USPTO · Patent Grant 11,942,881",
+    "source_type": "patent",
+    "url": "https://patents.google.com/patent/US11942881B2",
+    "publish_date": "2026-09-28",
+    "geography": "Global",
+    "domain_tags": ["Energy", "Materials"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Panasonic Energy Corporation",
+      "category_badge": "Energy / Patent",
+      "novelty_score": 0.91,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T16:00:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-10",
+    "title": "Continuous Roll-to-Roll Perovskite-Silicon Tandem Solar Cell Deposition (IPO 202621034912)",
+    "raw_text": "Slot-die atmospheric coating method for triple-cation perovskite layers onto textured silicon wafers yielding 29.4% power conversion efficiency.",
+    "source_name": "IP India · Patent Application 202621034912",
+    "source_type": "patent",
+    "url": "https://ipindiaservices.gov.in/publicsearch",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Clean Energy", "Materials"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Reliance New Energy Ltd & IIT Bombay",
+      "category_badge": "Clean Energy / Patent",
+      "novelty_score": 0.90,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-28T15:24:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-11",
+    "title": "Solid-State Thin-Film Lithium Battery with Amorphous Oxide Electrolyte (JPO 2026-077120)",
+    "raw_text": "Lithium phosphorus oxynitride (LiPON) sputtered film integrated directly onto SMD circuit boards with 10,000+ cycle life for medical implants.",
+    "source_name": "JPO · Patent Application 2026-077120",
+    "source_type": "patent",
+    "url": "https://j-platpat.inpit.go.jp",
+    "publish_date": "2026-09-28",
+    "geography": "Japan",
+    "domain_tags": ["Materials", "Electronics"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "TDK Corporation",
+      "category_badge": "Materials / Patent",
+      "novelty_score": 0.89,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-28T15:00:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-12",
+    "title": "Gallium Nitride (GaN) HEMT on Silicon with High Thermal Dissipation Via (IPO 202611059302)",
+    "raw_text": "Deep reactive-ion etched diamond-filled thermal backside vias reducing junction temperature by 38°C in 650V radar power amplifiers.",
+    "source_name": "IP India · Patent Application 202611059302",
+    "source_type": "patent",
+    "url": "https://ipindiaservices.gov.in/publicsearch",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Semiconductors"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "CSIR-CEERI Pilani & MeitY",
+      "category_badge": "Semiconductors / Patent",
+      "novelty_score": 0.93,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-28T14:24:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-13",
+    "title": "Solid-State Battery Pack Enclosure with Variable Pre-Load Clamping Mechanism (JPO 2026-125091)",
+    "raw_text": "Shape-memory alloy actuator array applying constant 5 MPa interfacial stack pressure throughout charge-discharge expansion and contraction cycles.",
+    "source_name": "JPO · Patent Application 2026-125091",
+    "source_type": "patent",
+    "url": "https://j-platpat.inpit.go.jp",
+    "publish_date": "2026-09-27",
+    "geography": "Japan",
+    "domain_tags": ["Mobility", "Energy"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Toyota Motor Corporation",
+      "category_badge": "Mobility / Patent",
+      "novelty_score": 0.92,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-27T17:00:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-14",
+    "title": "Cell-to-Pack (CTP) Structural Battery Pack Architecture with Immersion Cooling Manifold (IPO 202641066231)",
+    "raw_text": "Direct-dielectric coolant circulation channel manifold surrounding cylindrical 4680 cells integrated directly into vehicle chassis floorpan.",
+    "source_name": "IP India · Patent Application 202641066231",
+    "source_type": "patent",
+    "url": "https://ipindiaservices.gov.in/publicsearch",
+    "publish_date": "2026-09-27",
+    "geography": "India",
+    "domain_tags": ["Mobility", "Energy"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Ola Electric Technologies Pvt Ltd",
+      "category_badge": "Mobility / Patent",
+      "novelty_score": 0.88,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-27T15:40:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-15",
+    "title": "Adaptive Robotic Arm Controller with Real-Time Torque Sensing and Dynamic Collision Avoidance (JPO 2026-061845)",
+    "raw_text": "6-axis joint torque feedback algorithm performing sub-5ms trajectory re-planning when collaborative human workers enter robot workspace envelope.",
+    "source_name": "JPO · Patent Grant 2026-061845",
+    "source_type": "patent",
+    "url": "https://j-platpat.inpit.go.jp",
+    "publish_date": "2026-09-27",
+    "geography": "Japan",
+    "domain_tags": ["Robotics"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Fanuc Corporation",
+      "category_badge": "Robotics / Patent",
+      "novelty_score": 0.90,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-27T13:20:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-16",
+    "title": "Continuous Flow Microfluidic Synthesis System for Chiral Pharmaceutical Intermediates (IPO 202641077218)",
+    "raw_text": "Multistage Hastelloy micro-reactor array with inline Fourier-transform near-infrared spectroscopy and automated closed-loop stoichiometry dosing.",
+    "source_name": "IP India · Patent Application 202641077218",
+    "source_type": "patent",
+    "url": "https://ipindiaservices.gov.in/publicsearch",
+    "publish_date": "2026-09-27",
+    "geography": "India",
+    "domain_tags": ["Biopharma"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Dr. Reddy's Laboratories Ltd",
+      "category_badge": "Biopharma / Patent",
+      "novelty_score": 0.89,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-27T11:00:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-17",
+    "title": "Quantum-Inspired Digital Annealer Architecture for High-Dimensional Logistics Optimization (USPTO 11,935,102)",
+    "raw_text": "Fully connected 8,192-bit CMOS Ising model accelerator evaluating 10^18 combinatorial permutations per second for supply chain route routing.",
+    "source_name": "USPTO · Patent Grant 11,935,102",
+    "source_type": "patent",
+    "url": "https://patents.google.com/patent/US11935102B2",
+    "publish_date": "2026-09-26",
+    "geography": "Global",
+    "domain_tags": ["Quantum Computing"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Fujitsu Limited",
+      "category_badge": "Quantum / Patent",
+      "novelty_score": 0.93,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-26T17:15:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-18",
+    "title": "Bi-Directional Smart Fast-Charger with Integrated Grid Peak-Shaving and V2H Inverter (IPO 202641088490)",
+    "raw_text": "Wide-bandgap SiC inverter enabling 22 kW DC vehicle-to-home emergency power back-feed and automated demand-response grid balancing.",
+    "source_name": "IP India · Patent Application 202641088490",
+    "source_type": "patent",
+    "url": "https://ipindiaservices.gov.in/publicsearch",
+    "publish_date": "2026-09-26",
+    "geography": "India",
+    "domain_tags": ["Energy", "Mobility"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Ather Energy Pvt Ltd",
+      "category_badge": "Energy / Patent",
+      "novelty_score": 0.88,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-26T15:30:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-19",
+    "title": "All-Photonics Network (APN) Optical Switch Matrix with Nanosecond Wavelength Routing (JPO 2026-091440)",
+    "raw_text": "Silicon-photonics Mach-Zehnder interferometer matrix performing ultra-low loss 128x128 optical cross-connection without electro-optic conversion.",
+    "source_name": "JPO · Patent Application 2026-091440",
+    "source_type": "patent",
+    "url": "https://j-platpat.inpit.go.jp",
+    "publish_date": "2026-09-26",
+    "geography": "Japan",
+    "domain_tags": ["Telecommunications", "Semiconductors"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Nippon Telegraph and Telephone (NTT) Corporation",
+      "category_badge": "Telecom / Patent",
+      "novelty_score": 0.94,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-26T12:45:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-20",
+    "title": "Composite Ceramic-Polymer Armor Panel with Gradient Hydrodynamic Shock Dispersion (IPO 202621045199)",
+    "raw_text": "Functionally graded silicon carbide ceramic tiles bonded to ultra-high-molecular-weight polyethylene backing for STANAG Level 4 ballistic protection.",
+    "source_name": "IP India · Patent Application 202621045199",
+    "source_type": "patent",
+    "url": "https://ipindiaservices.gov.in/publicsearch",
+    "publish_date": "2026-09-26",
+    "geography": "India",
+    "domain_tags": ["Materials"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Larsen & Toubro (L&T) Defense & DMRL",
+      "category_badge": "Defense / Patent",
+      "novelty_score": 0.87,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-26T10:15:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-21",
+    "title": "3D Stitched DRAM Memory Architecture with Monolithic Inter-Die TSV Interconnects (USPTO 11,988,310)",
+    "raw_text": "16-high stacked HBM4 memory die assembly with hybrid direct copper-to-copper bonding delivering 3.2 TB/s memory bandwidth for AI training.",
+    "source_name": "USPTO · Patent Grant 11,988,310",
+    "source_type": "patent",
+    "url": "https://patents.google.com/patent/US11988310B2",
+    "publish_date": "2026-09-25",
+    "geography": "Global",
+    "domain_tags": ["Semiconductors"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Samsung Electronics Co., Ltd.",
+      "category_badge": "Semiconductors / Patent",
+      "novelty_score": 0.92,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-25T16:30:00+05:30"
+  },
+  {
+    "signal_id": "sig-pat-22",
+    "title": "Ultra-Low GWP Hydrofluoroolefin Refrigerant Blend for Tropical Inverter Air Conditioners (JPO 2026-054921)",
+    "raw_text": "Non-flammable A2L refrigerant formulation (GWP < 150) optimized for extreme 52°C ambient condensing environments with zero ozone depletion.",
+    "source_name": "JPO · Patent Application 2026-054921",
+    "source_type": "patent",
+    "url": "https://j-platpat.inpit.go.jp",
+    "publish_date": "2026-09-25",
+    "geography": "Japan",
+    "domain_tags": ["Materials", "Energy"],
+    "trust_weight": 0.9,
+    "raw_metadata": {
+      "applicant": "Daikin Industries, Ltd.",
+      "category_badge": "Materials / Patent",
+      "novelty_score": 0.88,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-25T13:00:00+05:30"
+  },
+
+  {
+    "signal_id": "sig-str-01",
+    "title": "VoltLeaf Battery Systems: Signed up with Solid-State Composite Anode Pilot",
+    "raw_text": "Bengaluru-based deeptech startup VoltLeaf registered prototype testing with IIT Madras CBEEV under AIS-156 tropical safety certification for commercial 2-wheeler fleets.",
+    "source_name": "Startup India Hub · DPIIT Registry #8921",
+    "source_type": "startup",
+    "url": "https://www.startupindia.gov.in/",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Energy", "Materials"],
+    "trust_weight": 0.85,
+    "raw_metadata": {
+      "applicant": "VoltLeaf Battery Systems Pvt Ltd",
+      "category_badge": "Energy / Startup",
+      "novelty_score": 0.93,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T18:14:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-02",
+    "title": "Kirin Grid: Predictive load balancing for neighbourhood-scale microgrids",
+    "raw_text": "Tokyo and Osaka based startup detects real-time demand fluctuations using distributed edge AI sensor arrays with 22% peak shaving.",
+    "source_name": "METI J-Startup Registry · Official Press",
+    "source_type": "startup",
+    "url": "https://kiringrid.jp",
+    "publish_date": "2026-09-28",
+    "geography": "Japan",
+    "domain_tags": ["AI Agents", "Energy"],
+    "trust_weight": 0.85,
+    "raw_metadata": {
+      "applicant": "Kirin Grid Inc.",
+      "category_badge": "AI Agents / Startup",
+      "novelty_score": 0.90,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T18:04:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-03",
+    "title": "BioShield Packaging: Closed ₹18 Cr Seed for Compostable High-Oxygen Barrier Laminates",
+    "raw_text": "Hyderabad biotech startup BioShield completed seed funding to scale biodegradable PHA/PLA barrier film replacing multi-layer packaging foil.",
+    "source_name": "Venture Intelligence · Seed Round",
+    "source_type": "startup",
+    "url": "https://www.ventureintelligence.com/",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Materials", "Biotech"],
+    "trust_weight": 0.80,
+    "raw_metadata": {
+      "applicant": "BioShield Packaging Labs Pvt Ltd",
+      "category_badge": "Materials / Startup",
+      "novelty_score": 0.88,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T17:54:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-04",
+    "title": "Agnikul Cosmos: Secures $26M Series B for Mass Production of 3D-Printed Agnibaan Launch Vehicles",
+    "raw_text": "Chennai space startup operationalizes dedicated manufacturing facility producing one customized single-piece 3D-printed Agnilet rocket engine per week.",
+    "source_name": "Startup India · IN-SPACe Authorized",
+    "source_type": "startup",
+    "url": "https://agnikul.in",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Aerospace"],
+    "trust_weight": 0.90,
+    "raw_metadata": {
+      "applicant": "Agnikul Cosmos Private Limited",
+      "category_badge": "Aerospace / Startup",
+      "novelty_score": 0.95,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T17:42:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-05",
+    "title": "Sakana AI: Raises $100M Series A Led by Global VCs to Pioneer Evolutionary Model Merge Architectures",
+    "raw_text": "Tokyo foundation AI lab achieves breakthrough nature-inspired evolutionary algorithms automatically assembling specialized open LLMs into multimodal agents.",
+    "source_name": "METI J-Startup · Official Announcement",
+    "source_type": "startup",
+    "url": "https://sakana.ai",
+    "publish_date": "2026-09-28",
+    "geography": "Japan",
+    "domain_tags": ["AI & Software"],
+    "trust_weight": 0.90,
+    "raw_metadata": {
+      "applicant": "Sakana AI K.K.",
+      "category_badge": "AI / Startup",
+      "novelty_score": 0.96,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T17:27:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-06",
+    "title": "Skyroot Aerospace: Signs Commercial Satellite Launch Contracts for Vikram-I Orbital Flight",
+    "raw_text": "Hyderabad private rocket builder concludes customer payload manifest for 300 kg low-Earth orbit multi-satellite deployment mission.",
+    "source_name": "IN-SPACe Registry · Series C",
+    "source_type": "startup",
+    "url": "https://skyroot.in",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Aerospace"],
+    "trust_weight": 0.90,
+    "raw_metadata": {
+      "applicant": "Skyroot Aerospace Private Limited",
+      "category_badge": "Aerospace / Startup",
+      "novelty_score": 0.94,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T17:05:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-07",
+    "title": "Tier IV: Completes ¥8.5B Growth Round for Level 4 Autonomous Driving Reference Platform (Autoware)",
+    "raw_text": "Nagoya autonomous vehicle technology leader deploys driverless commercial micro-buses across 15 Japanese municipal transit routes.",
+    "source_name": "METI J-Startup & Sompo Group",
+    "source_type": "startup",
+    "url": "https://tier4.jp",
+    "publish_date": "2026-09-28",
+    "geography": "Japan",
+    "domain_tags": ["Robotics & Mobility"],
+    "trust_weight": 0.85,
+    "raw_metadata": {
+      "applicant": "Tier IV, Inc.",
+      "category_badge": "Mobility / Startup",
+      "novelty_score": 0.92,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T16:40:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-08",
+    "title": "Log9 Materials: Inaugurates India's First Commercial LTO & Na-Ion Battery Cell Gigafactory Pilot",
+    "raw_text": "Bengaluru battery pioneer commissions 50 MWh automated production line for ultra-fast charging Lithium Titanium Oxide (LTO) cells for heavy commercial fleets.",
+    "source_name": "Startup India · Commercial Commissioning",
+    "source_type": "startup",
+    "url": "https://log9materials.com",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Energy & Materials"],
+    "trust_weight": 0.85,
+    "raw_metadata": {
+      "applicant": "Log9 Materials Scientific Private Limited",
+      "category_badge": "Energy / Startup",
+      "novelty_score": 0.93,
+      "is_live": true
+    },
+    "ingested_at": "2026-09-28T16:05:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-09",
+    "title": "Mujin Inc.: Closes $85M Series C for Machine-Intelligent Industrial Robotics and Automated Warehouse Fleets",
+    "raw_text": "Tokyo motion planning software developer deploys perception-driven palletizing and truck unloading robot cells without prior teach-pendant programming.",
+    "source_name": "J-Startup Registry & Tech In Asia",
+    "source_type": "startup",
+    "url": "https://mujin.co.jp",
+    "publish_date": "2026-09-28",
+    "geography": "Japan",
+    "domain_tags": ["Robotics"],
+    "trust_weight": 0.85,
+    "raw_metadata": {
+      "applicant": "Mujin, Inc.",
+      "category_badge": "Robotics / Startup",
+      "novelty_score": 0.91,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-28T15:35:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-10",
+    "title": "QpiAI India: Deploys 25-Qubit Quantum-AI Hybrid Coprocessor for Enterprise Materials Simulation",
+    "raw_text": "Bengaluru quantum tech startup deploys cloud quantum-classical optimization platform accelerating drug discovery and solid-state electrolyte design.",
+    "source_name": "Startup India · Indian Semiconductor Mission",
+    "source_type": "startup",
+    "url": "https://qpiai.tech",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Quantum Tech", "AI & Software"],
+    "trust_weight": 0.85,
+    "raw_metadata": {
+      "applicant": "QpiAI India Private Limited",
+      "category_badge": "Quantum / Startup",
+      "novelty_score": 0.94,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-28T15:05:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-11",
+    "title": "Preferred Networks: Unveils MN-Core 2 Custom AI Accelerator Silicon with Sub-20W Edge Inference",
+    "raw_text": "Tokyo deep learning startup releases second-generation dedicated matrix processor reducing power consumption by 65% for autonomous manufacturing inspection.",
+    "source_name": "METI J-Startup · Official Release",
+    "source_type": "startup",
+    "url": "https://preferred.jp",
+    "publish_date": "2026-09-28",
+    "geography": "Japan",
+    "domain_tags": ["AI & Semiconductors"],
+    "trust_weight": 0.85,
+    "raw_metadata": {
+      "applicant": "Preferred Networks, Inc. (PFN)",
+      "category_badge": "Semiconductors / Startup",
+      "novelty_score": 0.92,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-28T14:30:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-12",
+    "title": "EtherealX: Raises $5M Seed to Build World's First Fully Reusable Medium-Lift Space Launch Vehicle",
+    "raw_text": "Bengaluru space tech startup advances Razor-1 reusable rocket stage test firing targeting $1,500/kg payload delivery to low-Earth orbit.",
+    "source_name": "Venture Intelligence & Startup India",
+    "source_type": "startup",
+    "url": "https://etherealx.space",
+    "publish_date": "2026-09-28",
+    "geography": "India",
+    "domain_tags": ["Aerospace"],
+    "trust_weight": 0.80,
+    "raw_metadata": {
+      "applicant": "EtherealX Space Exploration Technologies",
+      "category_badge": "Aerospace / Startup",
+      "novelty_score": 0.90,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-28T14:00:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-13",
+    "title": "ispace Inc.: Successfully Integrates HAKUTO-R Mission 2 Lunar Lander with Commercial Micro-Rover",
+    "raw_text": "Tokyo commercial lunar exploration company completes vacuum chamber qualification for RESILIENCE lander slated for deep-space lunar touchdown.",
+    "source_name": "Tokyo Stock Exchange (TSE:9348) & JAXA",
+    "source_type": "startup",
+    "url": "https://ispace-inc.com",
+    "publish_date": "2026-09-27",
+    "geography": "Japan",
+    "domain_tags": ["Aerospace", "Robotics"],
+    "trust_weight": 0.90,
+    "raw_metadata": {
+      "applicant": "ispace, inc.",
+      "category_badge": "Aerospace / Startup",
+      "novelty_score": 0.93,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-27T16:30:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-14",
+    "title": "Simple Energy: Secures ₹165 Cr Series A for High-Density 4.8 kWh Tropical 2W Battery Pack Production",
+    "raw_text": "Bengaluru EV OEM scales thermal battery pack assembly facility featuring patented dual-inverter motor cooling preventing power derating up to 50°C.",
+    "source_name": "DPIIT Startup India · Funding Round",
+    "source_type": "startup",
+    "url": "https://simpleenergy.in",
+    "publish_date": "2026-09-27",
+    "geography": "India",
+    "domain_tags": ["Mobility", "Energy"],
+    "trust_weight": 0.85,
+    "raw_metadata": {
+      "applicant": "Simple Energy Private Limited",
+      "category_badge": "Mobility / Startup",
+      "novelty_score": 0.89,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-27T14:50:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-15",
+    "title": "Idein Inc.: Partners with Japanese Retailers to Deploy Edge AI Vision Sensing on Micro-Silicon Platforms",
+    "raw_text": "Tokyo edge computing startup scales Actcast IoT platform running high-speed deep learning inference on cost-effective ARM embedded microprocessors.",
+    "source_name": "METI J-Startup · Commercial Press",
+    "source_type": "startup",
+    "url": "https://idein.jp",
+    "publish_date": "2026-09-27",
+    "geography": "Japan",
+    "domain_tags": ["AI & IoT", "Semiconductors"],
+    "trust_weight": 0.80,
+    "raw_metadata": {
+      "applicant": "Idein Inc.",
+      "category_badge": "AI / Startup",
+      "novelty_score": 0.88,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-27T12:15:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-16",
+    "title": "GalaxEye Space: Validates Multi-Sensor Optical & Synthetic Aperture Radar (SAR) Satellite Payload",
+    "raw_text": "Chennai space startup demonstrates fused all-weather hyperspectral and radar Earth observation imaging for maritime and disaster management.",
+    "source_name": "IIT Madras Incubation Cell · IN-SPACe",
+    "source_type": "startup",
+    "url": "https://galaxeye.space",
+    "publish_date": "2026-09-27",
+    "geography": "India",
+    "domain_tags": ["Aerospace & Imaging"],
+    "trust_weight": 0.85,
+    "raw_metadata": {
+      "applicant": "GalaxEye Space Solutions Pvt Ltd",
+      "category_badge": "Aerospace / Startup",
+      "novelty_score": 0.91,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-27T10:30:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-17",
+    "title": "Gitai: Raises $30M Series B for In-Space Autonomous Robotic Arms and Lunar Construction Rovers",
+    "raw_text": "Tokyo/Torrance space robotics developer executes pressurized module exterior maintenance demonstration on the International Space Station.",
+    "source_name": "J-Startup & Global VC Syndicate",
+    "source_type": "startup",
+    "url": "https://gitai.tech",
+    "publish_date": "2026-09-26",
+    "geography": "Japan",
+    "domain_tags": ["Robotics & Space"],
+    "trust_weight": 0.85,
+    "raw_metadata": {
+      "applicant": "Gitai Inc.",
+      "category_badge": "Robotics / Startup",
+      "novelty_score": 0.94,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-26T17:00:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-18",
+    "title": "Eka Mobility: Partners with Mitsui & VDL Groep with ₹850 Cr Investment for Electric Commercial Bus Fleet",
+    "raw_text": "Pune commercial EV manufacturer scales monocoque 9-meter and 12-meter electric city buses with local software control unit telemetry.",
+    "source_name": "Startup India & Indo-Japan Auto Alliance",
+    "source_type": "startup",
+    "url": "https://ekamobility.com",
+    "publish_date": "2026-09-26",
+    "geography": "India",
+    "domain_tags": ["Mobility"],
+    "trust_weight": 0.85,
+    "raw_metadata": {
+      "applicant": "Eka Mobility (Pinnacle Mobility Solutions)",
+      "category_badge": "Mobility / Startup",
+      "novelty_score": 0.90,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-26T14:40:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-19",
+    "title": "Telexistence: Deploys 300 Ghost Robotics Inventory Robots Across FamilyMart Convenience Stores",
+    "raw_text": "Tokyo robotics startup automates beverage restocking across retail chains using proprietary Gordon AI vision and remote VR teleoperation fallback.",
+    "source_name": "METI J-Startup · Commercial Rollout",
+    "source_type": "startup",
+    "url": "https://tx-inc.com",
+    "publish_date": "2026-09-26",
+    "geography": "Japan",
+    "domain_tags": ["Robotics"],
+    "trust_weight": 0.80,
+    "raw_metadata": {
+      "applicant": "Telexistence Inc.",
+      "category_badge": "Robotics / Startup",
+      "novelty_score": 0.89,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-26T11:50:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-20",
+    "title": "String Bio: Secures $20M for Methane-to-Protein Fermentation Platform Converting Biogas to Feed",
+    "raw_text": "Bengaluru industrial biotechnology startup commissions 1,000-tonne gas fermentation facility synthesizing sustainable protein from greenhouse gases.",
+    "source_name": "BIRAC & Venture Intelligence",
+    "source_type": "startup",
+    "url": "https://stringbio.com",
+    "publish_date": "2026-09-26",
+    "geography": "India",
+    "domain_tags": ["Biotech & Materials"],
+    "trust_weight": 0.85,
+    "raw_metadata": {
+      "applicant": "String Bio Private Limited",
+      "category_badge": "Biotech / Startup",
+      "novelty_score": 0.92,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-26T09:30:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-21",
+    "title": "Kyoto Fusioneering: Closes ¥10.5B Series C for Commercial Fusion Power Plant Gyrotrons and Heat Exchangers",
+    "raw_text": "Kyoto deeptech company delivers high-power microwave gyrotron plasma heating systems and liquid lithium-lead breeding blankets to international fusion reactors.",
+    "source_name": "Kyoto University Spinout & METI",
+    "source_type": "startup",
+    "url": "https://kyotofusioneering.com",
+    "publish_date": "2026-09-25",
+    "geography": "Japan",
+    "domain_tags": ["Clean Energy", "Materials"],
+    "trust_weight": 0.90,
+    "raw_metadata": {
+      "applicant": "Kyoto Fusioneering Ltd.",
+      "category_badge": "Energy / Startup",
+      "novelty_score": 0.95,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-25T16:00:00+05:30"
+  },
+  {
+    "signal_id": "sig-str-22",
+    "title": "Ultraviolette Automotive: Expands F77 Mach 2 Electric High-Performance Motorcycle to EU & ASEAN Markets",
+    "raw_text": "Bengaluru performance EV startup commences exports of 10.3 kWh aviation-grade battery electric motorcycles equipped with regenerative ABS and LTE telemetry.",
+    "source_name": "Startup India & DPIIT Registry",
+    "source_type": "startup",
+    "url": "https://ultraviolette.com",
+    "publish_date": "2026-09-25",
+    "geography": "India",
+    "domain_tags": ["Mobility"],
+    "trust_weight": 0.85,
+    "raw_metadata": {
+      "applicant": "Ultraviolette Automotive Pvt Ltd",
+      "category_badge": "Mobility / Startup",
+      "novelty_score": 0.89,
+      "is_live": false
+    },
+    "ingested_at": "2026-09-25T12:30:00+05:30"
+  }
+]

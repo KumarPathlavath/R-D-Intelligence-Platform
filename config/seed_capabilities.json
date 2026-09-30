@@ -1,0 +1,50 @@
+[
+  {
+    "capability_id": "cap_001",
+    "name": "EV Wireless Power Transfer — Sheet-type Coil System",
+    "domain": ["electronics", "energy", "mobility"],
+    "description": "Sheet-type high-efficiency planar magnetic coil assemblies with multi-layer ferrite shielding and thermal spreaders for electric vehicle inductive charging platforms.",
+    "dnp_division": "Power Electronics & Mobility Division",
+    "key_technical_metrics": {
+      "nominal_frequency": "85 kHz (SAE J2954 standard)",
+      "coupling_efficiency": ">92% at 50mm air gap",
+      "thermal_dissipation": "<45°C rise at 11 kW continuous transfer",
+      "shielding_thickness": "<3.2 mm"
+    },
+    "trl": 8,
+    "active_projects": ["Misalignment-Tolerant EV Coil", "Dynamic In-Motion Highway Charging"],
+    "internal_patents": ["JP-6892401-B2", "US-11204891-B2"]
+  },
+  {
+    "capability_id": "cap_002",
+    "name": "Pharmaceutical API Synthetic Route Development",
+    "domain": ["chemistry", "life-sciences", "materials"],
+    "description": "Continuous-flow microreactor synthesis and biocatalytic process development for high-purity active pharmaceutical ingredient (API) intermediates and chiral compounds.",
+    "dnp_division": "Healthcare & Life Science Solutions Division",
+    "key_technical_metrics": {
+      "reaction_yield": ">85% isolated yield",
+      "heavy_metal_residual": "<5 ppm (ICH Q3D compliance)",
+      "throughput": "3.2x vs batch reactors",
+      "e_factor": "<12 kg waste / kg API"
+    },
+    "trl": 8,
+    "active_projects": ["Enzymatic Flow Reactor Pilot", "Palladium-Free Chiral Synthesis"],
+    "internal_patents": ["JP-6745120-B2", "US-10985412-B2"]
+  },
+  {
+    "capability_id": "cap_003",
+    "name": "Multilayer Barrier Film Extrusion",
+    "domain": ["materials", "packaging"],
+    "description": "Precision multi-layer co-extrusion and atomic barrier deposition of biodegradable and functional polymer laminate films for pharmaceutical packaging and tropical EV battery pouches.",
+    "dnp_division": "Advanced Packaging & Materials Division",
+    "key_technical_metrics": {
+      "oxygen_transmission_rate": "<0.05 cc/m2/day",
+      "water_vapor_transmission_rate": "<0.001 g/m2/day",
+      "compostability": "ISO 14855 / ASTM D6400 Certified",
+      "tensile_strength": ">120 MPa"
+    },
+    "trl": 9,
+    "active_projects": ["Compostable Oxygen Scavenger Film", "Tropical Battery Pouch Gen 2"],
+    "internal_patents": ["US-11487198-B2", "JP-7023194-B2"]
+  }
+]

@@ -1,0 +1,140 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --radius: 1.25rem;
+    --background: #f0f7fd;
+    --foreground: #0f172a;
+    --card: #ffffff;
+    --card-foreground: #0f172a;
+    --popover: #ffffff;
+    --popover-foreground: #0f172a;
+    --primary: #0284c7;
+    --primary-foreground: #ffffff;
+    --sky-soft: #38bdf8;
+    --sky-deep: #0284c7;
+    --secondary: #f1f5f9;
+    --secondary-foreground: #0f172a;
+    --muted: #f1f5f9;
+    --muted-foreground: #64748b;
+    --accent: #e0f2fe;
+    --accent-foreground: #0284c7;
+    --destructive: #ef4444;
+    --destructive-foreground: #ffffff;
+    --success: #10b981;
+    --warning: #f59e0b;
+    --lowtrust: #94a3b8;
+    --patent: #0284c7;
+    --policy: #8b5cf6;
+    --startup: #f59e0b;
+    --border: #e2eaf2;
+    --input: #e2eaf2;
+    --ring: #0284c7;
+    --glass-bg: rgba(255, 255, 255, 0.88);
+    --glass-border: rgba(226, 234, 242, 0.9);
+    --glass-shadow: 0 8px 32px rgba(14, 165, 233, 0.06), 0 1px 2px rgba(15, 23, 42, 0.03);
+    --glass-shadow-hover: 0 12px 36px rgba(14, 165, 233, 0.12);
+  }
+
+  .dark {
+    --background: #0a0e1a;
+    --foreground: #f8fafc;
+    --card: #111827;
+    --card-foreground: #f8fafc;
+    --popover: #111827;
+    --popover-foreground: #f8fafc;
+    --primary: #38bdf8;
+    --primary-foreground: #0a0e1a;
+    --sky-soft: #7dd3fc;
+    --sky-deep: #38bdf8;
+    --secondary: #1e293b;
+    --secondary-foreground: #f8fafc;
+    --muted: #1e293b;
+    --muted-foreground: #94a3b8;
+    --accent: #1e3a5f;
+    --accent-foreground: #7dd3fc;
+    --destructive: #f87171;
+    --destructive-foreground: #ffffff;
+    --success: #34d399;
+    --warning: #fbbf24;
+    --lowtrust: #94a3b8;
+    --patent: #60a5fa;
+    --policy: #c084fc;
+    --startup: #fb923c;
+    --border: #1e293b;
+    --input: #1e293b;
+    --ring: #38bdf8;
+    --glass-bg: rgba(17, 24, 39, 0.85);
+    --glass-border: rgba(51, 65, 85, 0.7);
+    --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.35);
+    --glass-shadow-hover: 0 14px 44px rgba(56, 189, 248, 0.2);
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    font-family: 'Manrope', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    min-height: 100vh;
+  }
+}
+
+/* Glassmorphic Components */
+.glass {
+  background: var(--glass-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--glass-shadow);
+  border-radius: var(--radius);
+}
+
+.glass-hover {
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.glass-hover:hover {
+  box-shadow: var(--glass-shadow-hover);
+  border-color: rgba(2, 132, 199, 0.3);
+}
+
+.micro-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.pulse-cta {
+  animation: soft-pulse 2.5s infinite ease-in-out;
+}
+
+.shimmer {
+  background: linear-gradient(90deg, rgba(226, 232, 240, 0.6) 0%, rgba(241, 245, 249, 0.9) 50%, rgba(226, 232, 240, 0.6) 100%);
+  background-size: 200% 100%;
+  animation: shimmer-slide 1.8s infinite linear;
+}
+
+.dark .shimmer {
+  background: linear-gradient(90deg, rgba(30, 41, 59, 0.6) 0%, rgba(51, 65, 85, 0.9) 50%, rgba(30, 41, 59, 0.6) 100%);
+  background-size: 200% 100%;
+  animation: shimmer-slide 1.8s infinite linear;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.3);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.6);
+}

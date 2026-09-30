@@ -1,0 +1,113 @@
+# External Sources Configuration & Trust Weightings
+# Continuous Technology Intelligence Engine
+
+sources:
+  papers:
+    - name: "arXiv Condensed Matter & Materials"
+      type: "preprint"
+      weight: 0.75
+      endpoint: "http://export.arxiv.org/api/query"
+      categories: ["cond-mat.mtrl-sci", "cond-mat.mes-hall"]
+      query_terms: ["ferrite", "wireless power transfer", "perovskite", "solid state battery", "neuromorphic", "silicon photonics", "superconducting"]
+      enabled: true
+
+    - name: "arXiv AI & Machine Learning"
+      type: "preprint"
+      weight: 0.75
+      endpoint: "http://export.arxiv.org/api/query"
+      categories: ["cs.AI", "cs.LG", "cs.ET"]
+      query_terms: ["spiking neural network", "analog computing", "edge intelligence", "optical computing", "physical neural network"]
+      enabled: true
+
+    - name: "Semantic Scholar Open Research"
+      type: "peer_reviewed"
+      weight: 1.0
+      endpoint: "https://api.semanticscholar.org/graph/v1/paper/search"
+      query_terms: ["high-efficiency wireless power", "solid-state electrolyte degradation", "photonic tensor core", "bio-compatible neural probe"]
+      enabled: true
+
+    - name: "PubMed Biomedical Tech"
+      type: "peer_reviewed"
+      weight: 1.0
+      endpoint: "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
+      query_terms: ["bio-electronic interface", "neural electrode longevity", "flexible biosensor telemetry"]
+      enabled: true
+
+  patents:
+    - name: "USPTO Patent Grants & Applications"
+      type: "patent"
+      weight: 0.90
+      endpoint: "https://api.patentsview.org/patents/query"
+      cpc_classes: ["H02J50", "H01M10", "G06N3", "G02B6"]
+      query_terms: ["resonant inductive coupling", "magnetic sheet core", "sulfide-based solid electrolyte", "photonic integrated circuit", "piezoelectric actuator"]
+      enabled: true
+
+    - name: "EPO / Lens Patent Data"
+      type: "patent"
+      weight: 0.90
+      endpoint: "https://api.lens.org/patent/search"
+      query_terms: ["loss reduction high frequency coil", "anode-free lithium metal", "optical matrix multiplier"]
+      enabled: true
+
+  funding:
+    - name: "TechCrunch Hardware & DeepTech RSS"
+      type: "funding"
+      weight: 0.65
+      endpoint: "https://techcrunch.com/category/hardware/feed/"
+      enabled: true
+
+    - name: "VentureBeat AI & Emerging Tech Feed"
+      type: "funding"
+      weight: 0.65
+      endpoint: "https://venturebeat.com/category/ai/feed/"
+      enabled: true
+
+    - name: "DeepTech Seed & Series Tracker"
+      type: "funding"
+      weight: 0.65
+      endpoint: "synthetic_feed"
+      enabled: true
+
+  policy:
+    - name: "White House OSTP & National Science Board"
+      type: "policy"
+      weight: 0.85
+      endpoint: "https://www.whitehouse.gov/ostp/feed/"
+      query_terms: ["critical technologies", "semiconductor roadmap", "battery supply chain", "clean energy mandate"]
+      enabled: true
+
+    - name: "NIST & DOE Strategic Technology Bulletins"
+      type: "policy"
+      weight: 0.85
+      endpoint: "https://www.energy.gov/rss/news.xml"
+      query_terms: ["grid storage standards", "EV wireless charging standard", "quantum sensing benchmark"]
+      enabled: true
+
+    - name: "EU AI Office & Horizon Europe Standards"
+      type: "policy"
+      weight: 0.85
+      endpoint: "https://digital-strategy.ec.europa.eu/en/rss.xml"
+      query_terms: ["energy efficiency in computing", "circular battery directive"]
+      enabled: true
+
+  news:
+    - name: "IEEE Spectrum Technology News"
+      type: "news"
+      weight: 0.40
+      endpoint: "https://spectrum.ieee.org/rss/blog/tech-talk/fulltext"
+      enabled: true
+
+    - name: "MIT Technology Review RSS"
+      type: "news"
+      weight: 0.40
+      endpoint: "https://www.technologyreview.com/feed/"
+      enabled: true
+
+# Filtering and threshold parameters
+thresholds:
+  min_signal_classifier_confidence: 0.55
+  gap_similarity_upper_bound: 0.88   # High similarity means org already knows it, but novel variant means adjacent gap
+  gap_similarity_lower_bound: 0.28   # Below this is unrelated or extreme white-space
+  temporal_decay_half_life_days: 90
+  cluster_min_samples: 2
+  cluster_eps: 0.42

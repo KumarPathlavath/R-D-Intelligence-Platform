@@ -1,0 +1,23 @@
+{
+  "name": "continuous-technology-intelligence-engine",
+  "version": "2.4.0",
+  "description": "Next-Generation Technology Intelligence & R&D Scouting Engine with Glassmorphic Web UI",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview",
+    "start": "python3 src/api_server.py 8000",
+    "dashboard": "streamlit run src/dashboard/app.py --server.port 8501",
+    "fullstack": "./start.sh"
+  },
+  "keywords": [
+    "technology-intelligence",
+    "react",
+    "vite",
+    "tailwind",
+    "rd-scouting",
+    "patents",
+    "research"
+  ]
+}
